@@ -1,0 +1,71 @@
+a:3:{s:4:"time";i:1399885091;s:3:"ttl";i:2592000;s:4:"data";a:24:{s:2:"id";s:1:"7";s:6:"parent";s:1:"0";s:3:"lft";s:2:"25";s:3:"rht";s:2:"26";s:4:"name";s:11:"关于X6CMS";s:10:"isexternal";s:1:"0";s:11:"externalurl";s:0:"";s:6:"target";s:5:"_self";s:3:"dir";s:7:"aboutus";s:5:"title";s:29:"X6CMS网站管理系统简介";s:8:"keywords";s:5:"X6CMS";s:11:"description";s:190:"X6CMS：全称小六网站内容管理系统。X6CMS是一个功能完善的营销型网站管理平台，采用PHP+MYSQL架构，全站内置SEO优化机制，界面简介，操作方便。";s:5:"model";s:4:"page";s:5:"thumb";s:0:"";s:7:"content";s:1344:"<p>
+ <span style="line-height:2;">X6CMS：全称小六网站内容管理系统。X6CMS是一个功能完善的营销型网站管理平台，采用PHP+MYSQL架构，全站内置SEO优化机制，界面简介，操作方便。</span> 
+</p>
+<p>
+ <span style="line-height:2;">X6CMS系统核心采用Codeigniter框架，同时作为免费开源软件发布，集众多开源项目于一身，使X6CMS从安全、效率、易用及扩展性更加突出。</span> 
+</p>
+<p>
+ <br />
+</p>
+<p>
+ <strong><span style="line-height:2;">为什么选择X6CMS?</span></strong> 
+</p>
+<p>
+ <br />
+</p>
+<p>
+ <span style="line-height:2;">营销型建站系统，完全div+css设计，本系统完全针对SEO(网站优化)开发，可以让您的网站有更好的排名。</span> 
+</p>
+<p>
+ <span style="line-height:2;">架构清晰、完全开源。采用轻量级框架Codeigniter开发，兼顾安全、效率与扩展性。</span> 
+</p>
+<p>
+ <span style="line-height:2;">全局高速缓存，打造飞速网站体验。</span> 
+</p>
+<p>
+ <span style="line-height:2;">超级精美的模版中心供你随意选择。</span> 
+</p>
+<p>
+ <span style="line-height:2;">系统内置语言模块，多种语言一键切换。</span> 
+</p>
+<p>
+ <span style="line-height:2;">模版完全标签定义使用</span> 
+</p>
+<p>
+ <br />
+</p>";s:5:"color";s:0:"";s:7:"tpllist";s:0:"";s:9:"tpldetail";s:0:"";s:8:"pagesize";s:1:"0";s:12:"isnavigation";s:1:"1";s:10:"isdisabled";s:1:"0";s:9:"listorder";s:1:"7";s:4:"lang";s:5:"zh_cn";s:3:"top";a:23:{s:2:"id";s:1:"7";s:6:"parent";s:1:"0";s:3:"lft";s:2:"25";s:3:"rht";s:2:"26";s:4:"name";s:11:"关于X6CMS";s:10:"isexternal";s:1:"0";s:11:"externalurl";s:0:"";s:6:"target";s:5:"_self";s:3:"dir";s:7:"aboutus";s:5:"title";s:29:"X6CMS网站管理系统简介";s:8:"keywords";s:5:"X6CMS";s:11:"description";s:190:"X6CMS：全称小六网站内容管理系统。X6CMS是一个功能完善的营销型网站管理平台，采用PHP+MYSQL架构，全站内置SEO优化机制，界面简介，操作方便。";s:5:"model";s:4:"page";s:5:"thumb";s:0:"";s:7:"content";s:1344:"<p>
+ <span style="line-height:2;">X6CMS：全称小六网站内容管理系统。X6CMS是一个功能完善的营销型网站管理平台，采用PHP+MYSQL架构，全站内置SEO优化机制，界面简介，操作方便。</span> 
+</p>
+<p>
+ <span style="line-height:2;">X6CMS系统核心采用Codeigniter框架，同时作为免费开源软件发布，集众多开源项目于一身，使X6CMS从安全、效率、易用及扩展性更加突出。</span> 
+</p>
+<p>
+ <br />
+</p>
+<p>
+ <strong><span style="line-height:2;">为什么选择X6CMS?</span></strong> 
+</p>
+<p>
+ <br />
+</p>
+<p>
+ <span style="line-height:2;">营销型建站系统，完全div+css设计，本系统完全针对SEO(网站优化)开发，可以让您的网站有更好的排名。</span> 
+</p>
+<p>
+ <span style="line-height:2;">架构清晰、完全开源。采用轻量级框架Codeigniter开发，兼顾安全、效率与扩展性。</span> 
+</p>
+<p>
+ <span style="line-height:2;">全局高速缓存，打造飞速网站体验。</span> 
+</p>
+<p>
+ <span style="line-height:2;">超级精美的模版中心供你随意选择。</span> 
+</p>
+<p>
+ <span style="line-height:2;">系统内置语言模块，多种语言一键切换。</span> 
+</p>
+<p>
+ <span style="line-height:2;">模版完全标签定义使用</span> 
+</p>
+<p>
+ <br />
+</p>";s:5:"color";s:0:"";s:7:"tpllist";s:0:"";s:9:"tpldetail";s:0:"";s:8:"pagesize";s:1:"0";s:12:"isnavigation";s:1:"1";s:10:"isdisabled";s:1:"0";s:9:"listorder";s:1:"7";s:4:"lang";s:5:"zh_cn";}}}
